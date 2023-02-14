@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebaCronTrigger", "pruebaCronTrigger\pruebaCronTrigger.csproj", "{88F3F12F-A36D-4AC1-9485-A59A4950151E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F3F12F-A36D-4AC1-9485-A59A4950151E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F3F12F-A36D-4AC1-9485-A59A4950151E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F3F12F-A36D-4AC1-9485-A59A4950151E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F3F12F-A36D-4AC1-9485-A59A4950151E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7094CEE-F072-44D3-92C1-D98D62C78DDD}
+	EndGlobalSection
+EndGlobal
